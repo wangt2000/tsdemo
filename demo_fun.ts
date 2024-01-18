@@ -6,4 +6,8 @@ function addNumber(numArr: number[]) {
     return sum
 }
 
+function addXxx(){
+    
+}
+
 console.log(addNumber([1, 2, 3, 4, 5, 6, 7]))
